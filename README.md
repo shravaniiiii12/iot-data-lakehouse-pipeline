@@ -21,10 +21,10 @@ This project implements an end-to-end IoT data pipeline using PySpark and Delta 
 ![Silver](screenshots/silver_output.png)
 
 ### Gold Aggregation
-![Gold Avg](screenshots/gold_avg.png)
+![Gold Avg](screenshots/gold_output.png)
 
 ### Alerts
 ![Alerts](screenshots/alerts.png)
 
 ### Visualization
-![Chart](screenshots/chart.png)
+![Chart](screenshots/bar_chart.png)
